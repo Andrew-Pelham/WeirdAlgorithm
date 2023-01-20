@@ -1,0 +1,13 @@
+Fix update/add word printing out lyrics randomly
+
+have words be separated by newlines for scrolling text
+
+session reset whenever the site reloads or invalid input
+
+have speed of scrolling text equal length of YT video
+
+dedicated save button for edits?
+
+manual search for rhymes
+
+sql injection protection
